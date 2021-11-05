@@ -1,3 +1,7 @@
+# skeleton code
+# Ansaf Salleb-Aouissi
+# coms 4071
+
 from Grid       import Grid
 from ComputerAI import ComputerAI
 from IntelligentAgent  import IntelligentAgent
