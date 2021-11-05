@@ -1,3 +1,7 @@
+# skeleton code
+# Ansaf Salleb-Aouissi
+# coms 4071
+
 import random
 from BaseAI import BaseAI
 
