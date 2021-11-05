@@ -1,3 +1,7 @@
+# skeleton code
+# Ansaf Salleb-Aouissi
+# coms 4071
+
 from BaseDisplayer import BaseDisplayer
 import platform
 import os
